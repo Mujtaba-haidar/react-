@@ -1,0 +1,15 @@
+.style0{
+    padding: 10px;
+}
+.style1{
+    color:blue;
+}
+.cardo{
+    display: table-cell;
+    padding: 20px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.cardo:hover{
+    box-shadow: 0 0 11px blue;
+}
